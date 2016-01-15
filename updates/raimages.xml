@@ -3,7 +3,7 @@
 <update>
     <name>RA Images</name>
     <description>Set up Ramblers Images for J3 web sites</description>
-    <element>ra-images-media</element>
+    <element>ra-images</element>
     <type>file</type>
     <version>1.2.0</version>
     <client>0</client>
