@@ -3,7 +3,7 @@
 <update>
     <name>Ramblers Library</name>
     <description>Rambler Library for J3, walksfeeds etc</description>
-    <element>ramblers-manifest</element>
+    <element>RamblersLibrary</element>
     <type>file</type>
     <version>1.3.0</version>
     <client>0</client>
