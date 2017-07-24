@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<updates>
+<update>
+    <name>Ramblers Template</name>
+    <description>Ramblers Temaplate, modified version of gantry 4 default template 4.1.33</description>
+    <element>RamblersLibrary</element>
+    <type>template</type>
+    <version>2.0.0</version>
+    <client>0</client>
+    <infourl title="Ramblers-webs template">http://www.ramblers-webs.org.uk/</infourl>
+    <downloads>
+        <downloadurl type="full" format="zip">https://raw.githubusercontent.com/ramblerswebs/updates/master/updates/downloads/ramblers-template-2.0.0.zip</downloadurl>
+    </downloads>
+    <maintainer>Chris Vaughan</maintainer>
+    <maintainerurl>http://www.ramblers-webs.org.uk</maintainerurl>
+    <targetplatform name="joomla" version="3.*"/>
+ </update>
+</updates>
