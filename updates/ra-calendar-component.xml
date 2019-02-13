@@ -1,0 +1,18 @@
+<?xml version="1.0" ?>
+<updates>
+<update>
+    <name>RA Calendar Component</name>
+    <description>Rambler Calendar Component Module for J3</description>
+    <element>com_ra_calendar_download</element>
+    <type>component</type>
+    <version>1.0.0</version>
+    <client>1</client>
+    <infourl title="Ramblers-webs">https://github.com/ramblerswebs/calendarmodule/wiki</infourl>
+    <downloads>
+        <downloadurl type="full" format="zip">https://raw.githubusercontent.com/ramblerswebs/updates/master/updates/downloads/pkg_ra_calendar_download_v1.0.0.zip</downloadurl>
+    </downloads>
+    <maintainer>Keith Grimes</maintainer>
+    <maintainerurl>http://www.ramblers-webs.org.uk</maintainerurl>
+    <targetplatform name="joomla" version="3.*"/>
+ </update>
+</updates>
