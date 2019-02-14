@@ -2,7 +2,7 @@
 <updates>
 <update>
     <name>RA Calendar Package</name>
-    <description>Ramblers Calendar Download Package</description>
+    <description>RA Calendar Download Package</description>
     <element>pkg_ra_calendar_download</element>
     <type>package</type>
     <version>1.0.0</version>
