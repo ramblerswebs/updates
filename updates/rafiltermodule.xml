@@ -5,11 +5,11 @@
         <description>Rambler Module for controlling walks Display details</description>
         <element>mod_rawalkfilter</element>
         <type>module</type>
-        <version>0.0.1</version>
+        <version>0.0.2</version>
         <client>0</client>
         <infourl title="Ramblers-webs">http://www.ramblers-webs.org.uk/</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://raw.githubusercontent.com/ramblerswebs/updates/master/updates/downloads/RA-Walk-Filter-Module-0.0.1.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://raw.githubusercontent.com/ramblerswebs/updates/master/updates/downloads/RA-Walk-Filter-Module-0.0.2.zip</downloadurl>
         </downloads>
         <maintainer>Chris Vaughan</maintainer>
         <maintainerurl>http://www.ramblers-webs.org.uk</maintainerurl>
