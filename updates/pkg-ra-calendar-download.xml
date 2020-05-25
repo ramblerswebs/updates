@@ -5,7 +5,7 @@
     <description>RA Calendar Download Package</description>
     <element>pkg_ra_calendar_download</element>
     <type>package</type>
-    <version>1.0.43</version>
+    <version>1.0.0</version>
     <client>0</client>
     <infourl title="Ramblers-webs">https://github.com/ramblerswebs/calendarmodule/wiki</infourl>
     <downloads>
