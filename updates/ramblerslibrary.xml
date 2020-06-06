@@ -4,7 +4,7 @@
         <name>Ramblers Library</name>
         <description>Rambler Library for J3, walksfeeds etc</description>
         <element>RamblersLibrary</element>
-        <type>file</type>
+        <type>file</type> 
         <version>3.0.0</version>
         <client>0</client>
         <infourl title="Ramblers-webs library">http://www.ramblers-webs.org.uk/</infourl>
