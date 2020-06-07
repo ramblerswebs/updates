@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
 <updates>
     <update>
-        <name>Ramblers Library</name>
+        <name>RamblersLibrary</name>
         <description>Rambler Library for J3, walksfeeds etc</description>
-        <element>RamblersLibrary</element>
+        <element>ramblers</element>
         <type>library</type>
         <version>3.0.2</version>
         <client>0</client>
