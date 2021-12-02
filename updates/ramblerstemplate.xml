@@ -1,7 +1,7 @@
 <?xml version="1.0" ?>
 <updates>
 <update>
-    <name>ramblers_gantry</name>
+    <name>gantry</name>
     <description>Ramblers Temaplate, modified version of gantry 4 default template</description>
     <element>gantry</element>
     <type>template</type>
