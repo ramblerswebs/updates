@@ -2,7 +2,7 @@
 <updates>
 <update>
     <name>RA Hydrogen Customisation</name>
-    <description>RA Calendar Download Package</description>
+    <description>RA Hydrogen Template Customisation for Ramblers</description>
     <element>tpl_hydrogen_ramblers</element>
     <type>file</type>
     <version>1.0.9</version>
@@ -13,6 +13,6 @@
     </downloads>
     <maintainer>Keith Grimes</maintainer>
     <maintainerurl>http://www.ramblers-webs.org.uk</maintainerurl>
-    <targetplatform name="joomla" version="3.*"/>
+    <targetplatform name="joomla" version="3|4.*"/>
 </update>
 </updates>
