@@ -5,11 +5,11 @@
     <description>Rambler Footer  Module for J3</description>
     <element>mod_rafooter</element>
     <type>module</type>
-    <version>3.0.8</version>
+    <version>3.0.9</version>
     <client>0</client>
     <infourl title="Ramblers-webs">http://www.ramblers-webs.org.uk/</infourl>
     <downloads>
-        <downloadurl type="full" format="zip">https://raw.githubusercontent.com/ramblerswebs/updates/master/updates/downloads/rafooter-3.0.8.zip</downloadurl>
+        <downloadurl type="full" format="zip">https://raw.githubusercontent.com/ramblerswebs/updates/master/updates/downloads/rafooter-3.0.9.zip</downloadurl>
     </downloads>
     <maintainer>Chris Vaughan</maintainer>
     <maintainerurl>http://www.ramblers-webs.org.uk</maintainerurl>
