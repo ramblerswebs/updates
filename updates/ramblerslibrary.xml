@@ -5,11 +5,11 @@
         <description>Rambler Library for J3, walksfeeds etc</description>
         <element>ramblers</element>
         <type>library</type>
-        <version>4.2.14</version>
+        <version>4.2.15</version>
         <client>0</client>
         <infourl title="Ramblers-webs library">http://www.ramblers-webs.org.uk/</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://raw.githubusercontent.com/ramblerswebs/updates/master/updates/downloads/ramblers-library-4.2.14.zip</downloadurl>
+            <downloadurl type="full" format="zip">https://raw.githubusercontent.com/ramblerswebs/updates/master/updates/downloads/ramblers-library-4.2.15.zip</downloadurl>
         </downloads>
         <maintainer>Chris Vaughan</maintainer>
         <maintainerurl>http://www.ramblers-webs.org.uk</maintainerurl>
