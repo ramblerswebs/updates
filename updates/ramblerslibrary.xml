@@ -5,7 +5,7 @@
         <description>Rambler Library for J3, walksfeeds etc</description>
         <element>ramblers</element>
         <type>library</type>
-        <version>4.5.1</version>
+        <version>4.5.2</version>
         <client>0</client>
         <infourl title="Ramblers-webs library">http://www.ramblers-webs.org.uk/</infourl>
         <downloads>
