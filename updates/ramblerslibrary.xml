@@ -15,9 +15,6 @@
         <maintainerurl>http://www.ramblers-webs.org.uk</maintainerurl>
         <targetplatform name="joomla" version="3|4.*"/>
     </update>
-</updates>
-<?xml version="1.0" ?>
-<updates>
     <update>
         <name>RamblersLibrary</name>
         <description>Rambler Library for J3, walksfeeds etc</description>
