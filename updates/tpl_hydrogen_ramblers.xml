@@ -13,6 +13,6 @@
     </downloads>
     <maintainer>Keith Grimes</maintainer>
     <maintainerurl>http://www.ramblers-webs.org.uk</maintainerurl>
-    <targetplatform name="joomla" version="3|4.*"/>
+    <targetplatform name="joomla" version="3|4.*|5.*"/>
 </update>
 </updates>
